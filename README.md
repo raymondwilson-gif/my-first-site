@@ -3,7 +3,6 @@
 <body class="p-8 bg-gray-100">
 
   <div class="flex flex-wrap gap-6">
-
     <!-- Blog card 1 -->
     <div class="bg-white rounded-2xl shadow-md overflow-hidden w-72
                 hover:shadow-xl hover:-translate-y-1 transition cursor-pointer shadow-md">
@@ -28,7 +27,6 @@
  <body class="p-8 bg-gray-100 ">
 
   <div class="flex flex-wrap gap-6">
-
     <!-- Blog card 2 -->
     <div class="bg-white rounded-2xl shadow-md overflow-hidden w-72
                 hover:shadow-xl hover:-translate-y-1 transition cursor-pointer mt-4">
@@ -53,7 +51,6 @@
  <body class="p-8 bg-gray-100 ">
 
   <div class="flex flex-wrap gap-6">
-
     <!-- Blog card 3 -->
     <div class="bg-white rounded-2xl shadow-md overflow-hidden w-72
                 hover:shadow-xl hover:-translate-y-1 transition cursor-pointer mt-4">
@@ -61,13 +58,11 @@
       <div class="p-5">
         <h3 class="font-bold text-gray-900 mt-1">Contacts and links to my socials</h3>
         <p class="text-gray-500 text-sm mt-2 leading-relaxed">
-
         </p>
         <div class="flex items-center gap-2 mt-4">
           <div class="bg-indigo-100 rounded-full w-7 h-7"></div>
           <div>
             <p class="text-xs font-semibold text-gray-700">Raymond Wilson</p>
-
           </div>
         </div>
       </div>
