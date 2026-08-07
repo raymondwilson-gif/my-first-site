@@ -82,7 +82,6 @@
           <div class="bg-indigo-100 rounded-full w-7 h-7"></div>
           <div>
             <p class="text-xs font-semibold text-gray-700">Raymond Wilson</p>
-
           </div>
         </div>
       </div>
